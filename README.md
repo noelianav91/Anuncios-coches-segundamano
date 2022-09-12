@@ -32,6 +32,6 @@ Tras analizar la información del dataset me han surgido las siguientes pregunta
 
 ✅ Modelos de coches anunciados según su tipo de combustible
 
-El análisis y la limpieza del dataset ha sido realizado mediante SQL puedes acceder a través de este enlace 👉🏼 https://github.com/noelianav91/Anuncios-coches-segundamano/blob/main/coches_segunamano.sql
+El análisis y la limpieza del dataset ha sido realizado mediante SQL puedes acceder a él través de este enlace 👉🏼 https://github.com/noelianav91/Anuncios-coches-segundamano/blob/main/coches_segunamano.sql
 
 La visualización está realizada a través de Power BI y puedes acceder al dashboard en el enlace 👉🏼 https://app.powerbi.com/view?r=eyJrIjoiYTYxNWFiMGItOWEzMy00NTMyLTg1MDMtYWY0OWNkYjRhMjkyIiwidCI6IjljZDI1MDk0LWE0ZTQtNDkxYi04NGFiLTUzMjZiMzVhMDA2NCIsImMiOjl9&pageName=ReportSection
